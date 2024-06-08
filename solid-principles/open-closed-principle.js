@@ -67,6 +67,7 @@ class Specification {
 class ColorSpecification extends Specification {
   constructor(color) {
     super();
+
     this.color = color;
   }
 

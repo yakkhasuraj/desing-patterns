@@ -26,6 +26,7 @@ class RelationshipBrowser {
 class Relationships extends RelationshipBrowser {
   constructor() {
     super();
+
     this.data = [];
   }
 
